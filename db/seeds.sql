@@ -1,6 +1,6 @@
 /* seeds to automatically populate database tables */
 
-INSERT INTO Department (name)
+INSERT INTO Role (name)
 VALUES
 ('GM'),
 ('AGM'),
@@ -26,7 +26,7 @@ VALUES
 ('Clive', 'Barker', ),
 ('Fyodor', 'Dostoevsky', );
 
-INSERT INTO Role (title, salary, department_id)
+INSERT INTO Department (title, salary, department_id)
 VALUES
 ('Management'),
 ('Kitchen'),
