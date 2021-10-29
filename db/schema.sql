@@ -1,3 +1,8 @@
+/*Drop each table if it already exists*/
+DROP TABLE IF EXISTS Department;
+DROP TABLE IF EXIStS Employee;
+DROP TABLE IF EXISTS Role;
+
 /*Table for Departments*/
 CREATE TABLE Department (
     id INTEGER AUTO_INCREMENT PRIMARY KEY,
