@@ -1,4 +1,4 @@
-const mysql = ("mysql2");
+const mysql = ('mysql2');
 
 // Establish database connection
 const dbConnect = mysql.createConnection({
@@ -8,3 +8,5 @@ const dbConnect = mysql.createConnection({
     port: 3306,
     database: 'employees'
 });
+
+module.exports = dbConnect;
