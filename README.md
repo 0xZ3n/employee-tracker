@@ -1,6 +1,14 @@
 # employee-tracker
 A program that uses SQL to track a group of employees
 
+## Video Link
+https://watch.screencastify.com/v/l7THQHcnz2jxdqlj1KW4
+
+STUDENT COMMENTS:
+Unfortunately, I was not able to get this app off the ground. The video show that I simply set up the databasae in mysql.
+My code will show that I created seeds for the database, and that I set up my router (albeit, ineffectively).
+
+
 USER STORY
 
 AS A business owner
